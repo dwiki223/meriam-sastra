@@ -1,0 +1,6 @@
+{
+  "name": "Meriam Sastra",
+  "description": "Permainan artileri tank 2D bergiliran hingga 6 pemain dengan kuis Bahasa Indonesia kelas 9 materi pantun, syair, dan gurindam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
